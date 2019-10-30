@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163605367721",
+    "firebase_url": "https://carbooking-dbb7b.firebaseio.com",
+    "project_id": "carbooking-dbb7b",
+    "storage_bucket": "carbooking-dbb7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163605367721:android:910f3da8e0c9a3950112b8",
+        "android_client_info": {
+          "package_name": "com.inducesmile.taxirental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163605367721-r5h97ud9lbvdn1sfd25ed14s8uo7u7p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inducesmile.taxirental",
+            "certificate_hash": "dd37fbe2734353189ff6c4e0829c323749a1ca57"
+          }
+        },
+        {
+          "client_id": "163605367721-ao0bc6e8gbm38tb8fmcfge7armdkkj43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2njQaYKEnryCTkZm1kpVAVGg9TNtBlMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163605367721-ao0bc6e8gbm38tb8fmcfge7armdkkj43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

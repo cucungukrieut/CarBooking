@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.intuit.sdp:sdp-android-1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3d0eec812e47b4d44f2628ce6cf26f3d37b0bc25/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3d0eec812e47b4d44f2628ce6cf26f3d37b0bc25/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

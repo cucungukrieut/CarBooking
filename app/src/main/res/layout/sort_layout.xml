@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_16sdp"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:layout_marginBottom="@dimen/_6sdp"
+        android:background="@color/colorBorder"
+        android:layout_marginTop="@dimen/_8sdp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/_11sdp"
+            android:textColor="@color/colorSecondaryText"
+            android:text="Min Price (0)"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textSize="@dimen/_11sdp"
+            android:gravity="right"
+            android:textColor="@color/colorSecondaryText"
+            android:text="Max Price (500)"/>
+
+    </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/seek_bar_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="500"
+        android:layout_marginTop="@dimen/_16sdp"/>
+
+</LinearLayout>

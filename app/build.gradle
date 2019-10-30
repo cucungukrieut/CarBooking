@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+com.google.gms.googleservices.GoogleServicesPlugin.config.disableVersionCheck = true
+
+android {
+    compileSdkVersion 28
+    //buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "com.inducesmile.taxirental"
+        minSdkVersion 16
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    } 
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+
+    //implementation 'com.google.firebase:firebase-auth:16.0.5'
+    implementation 'com.google.firebase:firebase-auth:10.2.6'
+    implementation 'com.google.firebase:firebase-database:10.2.6'
+    implementation 'com.google.firebase:firebase-storage:10.2.6'
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    api(group: 'commons-validator', name: 'commons-validator', version: '1.6') {
+        exclude group: 'commons-logging', module: 'commons-logging'
+    }
+
+    implementation 'de.hdodenhof:circleimageview:3.0.1'
+
+    implementation 'com.intuit.sdp:sdp-android:1.0.3'
+    implementation 'com.google.code.gson:gson:2.8.0'
+    implementation 'com.mcxiaoke.volley:library:1.0.19'
+    implementation 'com.github.bumptech.glide:glide:3.7.0'
+
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:cardview-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.android.support:support-vector-drawable:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+
+
+    implementation 'org.apache.commons:commons-lang3:3.9'
+    implementation 'com.google.android.gms:play-services-location:10.2.6'
+    implementation 'com.google.android.gms:play-services-places:10.2.6'
+    implementation 'com.google.android.gms:play-services-maps:10.2.6'
+
+
+    testImplementation 'junit:junit:4.12'
+
+}

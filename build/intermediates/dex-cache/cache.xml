@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\commons-beanutils\commons-beanutils\1.9.2\7a87d845ad3a155297e8f67d9008f4c1e5656b71\commons-beanutils-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a87d845ad3a155297e8f67d9008f4c1e5656b71">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-beanutils-1.9.2_f8b440a8af7078893f8263a3d7459b9ce67b3c91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\0cff9f548df937d10163cbdcb5550b56a83a86af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f19ea72dfa19017d16d1b1c755ad44b84c224885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\128f9a1beb46662ed71eaf159d4889c05c56b9e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d3b2f715050050fa72260910dee1bed33798e5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\commons-collections\commons-collections\3.2.2\8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5\commons-collections-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-collections-3.2.2_feafa2a5b00ed5ce6469e79c41e56d01bd35df8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_e4d4f32d3883ba97a14b13406c5dce05ecf938b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\commons-digester\commons-digester\1.8.1\3dec9b9c7ea9342d4dbe8c38560080d85b44a015\commons-digester-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3dec9b9c7ea9342d4dbe8c38560080d85b44a015">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-digester-1.8.1_952784124a99404f3fba6b38272b0028f452fbdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\8277080bb43dd299149472c3a6ccb4ae3e8732b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_818acc0dae1e5174a160a26bdc4080c5a8214bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fad955c5920e496c934d6de13a3881d435d5429">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b69164747a8a60d64c1b7834ef85807c073ee6b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\fe82056175e7cd986f9d9c8efd6c5dc1ceea39d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad3044100d5d6e3b54ecb383b913d6cc65f1e024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.5_ecb6aa634c73f2a37fbbd782ba1d316499108b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\6565ff77ab9ac3eb829539de50a719faa78eac2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff3b3cb0c18077b4dc6f7587747ca75e254fc07a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\2f0f4d8b0de1ce96a0b7b96da453263ad3632f37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac1f956cea077ded3a9eb22de89d1eb635c26756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\a7db02a48a9c4818ef78034a212acf661ffcd7e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7630ad131afd850f41aadea00f0af30eaeb5577e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ab392e39f2cc6a86e7f069c494e59e006ecc9abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\76b93d1d919d8190afd95b411c87c9c465a27e92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc688c57fe6eb18710e4223776dc9e1a5cfb4728\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_d830fd16d358fff1d1a5b393c3a2f0a2603897a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\fc195c32e3907cd61895ea159276bdb0fddb8e33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38c6be5a64ee9e25873cf7700e05f7d9e6f65b20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\0233e31dbe39a700ee9ac5a7352988ee43ef3b53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6204bf48ed9c6b3145a6576a9e34e7d4fe42a352\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\76b5bc8521bd2b082fa8a32f4fe262bfeef44b76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c088c564148d40c09b4e9c29bfb70dff4852af1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.android\build-cache\3d0eec812e47b4d44f2628ce6cf26f3d37b0bc25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b63d873d0f3394ace8b6a7d9aa194816c6253b4">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1b22218ef0e5623d3de54a6ee38f20ddf7dbe8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_6c67a4cbe26502d974f1b9c7f1ba8f3557758b17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\commons-validator\commons-validator\1.6\e989d1e87cdd60575df0765ed5bac65c905d7908\commons-validator-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e989d1e87cdd60575df0765ed5bac65c905d7908">
+        <dex dex="F:\Sem.4\Android Projects\CarBooking\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-validator-1.6_0b8e8e18244515a04202ec513729e54723a15776\classes.dex" />
+    </item>
+
+</items>
